@@ -1,0 +1,11 @@
+﻿Word,Change,Justification
+movie,add,Common review-domain label; little topic discrimination.
+film,add,Repeated medium name rather than an opinion.
+movies,add,Plural of the common review-domain label.
+films,add,Plural medium name; often redundant.
+cinema,add,Broad domain label in this movie-only collection.
+not,remove,Preserve explicit negation.
+no,remove,Preserve absence and negation.
+nor,remove,Preserve coordinated negation.
+but,remove,Preserve contrast between opinions.
+against,remove,Preserve opposition or negative stance.

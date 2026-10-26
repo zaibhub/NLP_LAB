@@ -1,0 +1,19 @@
+﻿Misspelling,Correct,Distance-only top1,Frequency top1,Baseline correct,Frequency correct,Baseline top5,Frequency top5
+recieve,receive,relieve,relieve,False,False,relieve; believe; receave; recede; receive,relieve; believe; receive; relieved; recipe
+definately,definitely,definitely,definitely,True,True,definitely; delicately; defiantly; definable; definite,definitely; delicately; definite; indefinitely; infinitely
+acommodate,accommodate,accommodate,accommodate,True,True,accommodate; accommodated; accommodates; commodity; commodore,accommodate; accommodates; accommodated; commodity; commodore
+seperate,separate,separate,separate,True,True,separate; desperate; generate; operate; separated,separate; operate; separated; desperate; generate
+occured,occurred,occurred,occurred,True,True,occurred; accused; cured; obscured; occluded,occurred; occur; occupied; occurs; accused
+untill,until,until,until,True,True,until; intial; still; till; untidy,until; still; till; untie; untold
+enviroment,environment,environment,environment,True,True,environment; environments; enlistment; enrichment; environing,environment; environments; environmental; environs; enrichment
+goverment,government,government,government,True,True,government; governments; movement; coherent; coverlet,government; movement; governments; movements; governmental
+becuase,because,became,because,False,True,became; because; accuse; base; beale,because; became; case; become; base
+langauge,language,language,language,True,True,language; baggage; bandage; engage; gauge,language; languages; manage; engage; gauge
+neccessary,necessary,necessary,necessary,True,True,necessary; accessory; necessarily; necessity; unnecessary,necessary; necessarily; necessity; unnecessary; accessory
+succesful,successful,successful,successful,True,True,successful; success; successes; successfully; successor,successful; success; successfully; successes; successor
+tommorow,tomorrow,tomorrow,tomorrow,True,True,tomorrow; mommor; borrow; comfort; comforts,tomorrow; mommor; common; somehow; commerce
+freind,friend,ffreind,ffreind,False,False,ffreind; feint; fiend; find; fred,ffreind; find; friend; trend; fred
+beleive,believe,beehive,believe,False,True,beehive; believe; deceive; receive; relive,believe; receive; relive; beehive; deceive
+wierd,weird,wield,wield,False,False,wield; bird; died; field; fiend,wield; were; where; field; word
+adress,address,address,address,True,True,address; dress; access; acres; across,address; dress; across; areas; press
+knowlege,knowledge,knowledge,knowledge,True,True,knowledge; acknowledge; college; knowed; knoweth,knowledge; college; knowing; nowhere; acknowledge

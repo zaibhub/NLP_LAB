@@ -1,0 +1,6 @@
+﻿Original,Blind removal,Safe removal,Manual sentiment observation
+The movie is not good.,movie good,movie not good,not good → good: negative becomes positive
+I am never happy with this service.,never happy service,never happy service,never remains: no negation flip here
+There is no problem.,problem,no problem,no problem → problem: reassuring meaning is lost
+I do not recommend this movie.,recommend movie,not recommend movie,not recommend → recommend: rejection becomes endorsement
+The ending is not bad.,ending bad,ending not bad,not bad → bad: mild praise becomes negative

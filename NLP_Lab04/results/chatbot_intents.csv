@@ -1,0 +1,6 @@
+﻿Query,Reduced,Risk
+How to not be charged?,charged,Loses not: avoiding a charge becomes charged.
+What is the status of my order?,status order,Keeps status/order; drops ownership and question wording.
+Can I cancel my order?,cancel order,Keeps cancel/order; drops whether cancellation is possible.
+Can I not cancel my order?,cancel order,Collapses with the preceding query despite opposite intent.
+Where is my order?,order,Drops where: delivery-location intent is weakened.

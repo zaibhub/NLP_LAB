@@ -1,0 +1,4 @@
+﻿Original English,Reduced English,Original Urdu,Reduced Urdu,Original source,Reduced source,Meaning comparison
+I do not want to cancel my order.,want cancel order,میں اپنا آرڈر منسوخ نہیں کرنا چاہتا ۔,آرڈر منسوخ کریں,MyMemory API retrieved 2026-10-25,MyMemory API retrieved 2026-10-25,Removing not reverses the cancellation preference; dropping I/my loses ownership.
+She is not going to school.,going school,Kon sa school ja raha hai,اسکول جانا,MyMemory API retrieved 2026-10-25,MyMemory API retrieved 2026-10-25,The original output is unreliable Roman Urdu (Kon sa school ja raha hai) and omits negation. The reduced output means going to school; stop-word removal also loses negation and subject. This example exposes translator noise as well as preprocessing damage.
+He gave the book to her.,gave book,اس نے کتاب اسے دی ۔,کتاب دی,MyMemory API retrieved 2026-10-25,MyMemory API retrieved 2026-10-25,"Removing he/to/her loses the giver, recipient and transfer direction."

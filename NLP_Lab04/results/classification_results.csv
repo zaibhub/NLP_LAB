@@ -1,0 +1,5 @@
+﻿Configuration,Full corpus vocabulary,Average tokens per document,Training TF-IDF vocabulary,Test accuracy
+Lowercase,9432,629.24,8065,0.48
+Lowercase + stopwords,9277,350.33,7912,0.64
+Lowercase + Porter,7118,629.24,6156,0.52
+Lowercase + lemma,7515,628.35,6478,0.52

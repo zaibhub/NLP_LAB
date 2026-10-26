@@ -1,0 +1,13 @@
+DATA SOURCES AND REPRODUCIBILITY
+
+Movie review polarity corpus v2.0 by Bo Pang and Lillian Lee, distributed through NLTK movie_reviews. https://www.cs.cornell.edu/people/pabo/movie-review-data/
+100 reviews: 50 negative and 50 positive, sampled with Python random.Random(42). Original file IDs are retained. Sentences use the corpus supplied sentence boundaries. Dataset is for educational experimentation; see included corpus README.
+
+Brown Corpus by W. N. Francis and H. Kucera, distributed through NLTK brown. https://www.nltk.org/nltk_data/
+Dictionary contains every lowercase ASCII alphabetic word in Brown with raw token frequencies, without adding target corrections. See included corpus README.
+
+English stop words: NLTK stopwords English list, unmodified ordered JSON snapshot. https://www.nltk.org/nltk_data/
+
+Case corpus, noisy reviews, spelling test list and lemmatization paragraph: purpose-written educational examples, not observations of real users.
+Urdu translator: MyMemory public translation API where retrieval succeeds; any unavailable outputs are explicitly marked as AI reference translations. https://mymemory.translated.net/
+Retrieval and preparation date: 2026-10-25.

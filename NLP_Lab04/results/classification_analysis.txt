@@ -1,0 +1,6 @@
+The dataset contains 100 actual movie reviews with balanced positive and negative labels.
+All configurations use the same 75 training and 25 test reviews (seed 42).
+TF-IDF is fitted on training reviews only; the full-corpus vocabulary column is descriptive.
+Best observed configuration(s): Lowercase + stopwords; accuracy 64.0%.
+Stemming merges forms and stop-word removal reduces tokens; lemma uses spaCy tokenization, so these scores compare full pipelines.
+This small fixed split is exploratory: close scores do not establish a reliable winner without more data and cross-validation.

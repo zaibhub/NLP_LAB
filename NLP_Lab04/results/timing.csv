@@ -1,0 +1,3 @@
+﻿Method,Seconds per paragraph
+Porter on pre-tokenized words,0.001147366566662337
+spaCy full trained pipeline,0.0249982631333296

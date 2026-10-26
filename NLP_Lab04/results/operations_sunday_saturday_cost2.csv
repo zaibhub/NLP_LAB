@@ -1,0 +1,9 @@
+﻿Operation,Source,Target,Cost
+match,s,s,0
+insert,,a,1
+insert,,t,1
+match,u,u,0
+substitute,n,r,2
+match,d,d,0
+match,a,a,0
+match,y,y,0
